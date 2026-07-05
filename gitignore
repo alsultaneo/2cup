@@ -1,0 +1,26 @@
+# Binaries
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Go build/test artifacts
+*.test
+*.out
+vendor/
+
+# Local config / user data (never commit real user data)
+/2cup-chat/
+user_profile.json
+mailbox.json
+stats.json
+app.log
+dm-attachments/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+Thumbs.db
+.DS_Store
