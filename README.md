@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ## Screenshots
 
 | Main menu | Join Chat | Messages |
@@ -88,5 +87,3 @@ Issues and pull requests are welcome. Please open an issue before submitting lar
 
 [MIT](LICENSE)
 =======
-# 2cup
->>>>>>> 94f417648b84f323ad08247014889aff163664cb
