@@ -23,10 +23,6 @@ There is no central server: peers discover each other through a public DHT, conn
 - **Built-in diagnostics** — a "Test Connection" screen that checks the libp2p host, listen addresses, peer connectivity, DHT round-trips, Pub/Sub, and the Messages account/DM listener, with human-readable explanations for common failure causes (firewall, no peers, etc.).
 - **Optional autostart** — can register itself to launch silently at Windows sign-in (with user confirmation) so offline messages aren't missed, and hides its console window if built without `-H=windowsgui`.
 
-## Screenshots
-
-*(Add screenshots of the main menu, chat room, and Messages screen here.)*
-
 ## Requirements
 
 - Windows 10/11
