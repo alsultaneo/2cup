@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 2cup Chat
 
 A serverless, peer-to-peer, end-to-end encrypted chat application for Windows, built in Go with a retro Windows 95-style UI (via [Fyne](https://fyne.io)) and [libp2p](https://libp2p.io) for networking.
@@ -80,3 +81,6 @@ Issues and pull requests are welcome. Please open an issue before submitting lar
 ## License
 
 [MIT](LICENSE)
+=======
+# 2cup
+>>>>>>> 1a2a07b805421cbd1180796b64e7fd949a5ee1fb
